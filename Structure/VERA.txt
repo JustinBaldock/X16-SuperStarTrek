@@ -1,0 +1,9 @@
+VERA Memory
+$0 $0000 - Layer 0 text mode start
+
+
+$0 $B000 - Crew Kirk
+$0 $B400 - Crew Spock
+
+$1 $0000 - Layer 1 graphics mode
+$1 $fa00 - Layer 1 end

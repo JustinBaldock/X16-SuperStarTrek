@@ -1,0 +1,6 @@
+Notes about the graphics file
+
+$0000 $0001 first two bytes are there to direct data file load bug in vload in ver R38
+$0002-$0401 Kirk data
+$0402-$0801 Spock data
+$0802-$0C02 Uhura data
