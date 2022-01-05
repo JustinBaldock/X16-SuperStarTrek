@@ -3,4 +3,8 @@ Notes about the graphics file
 $0000 $0001 first two bytes are there to direct data file load bug in vload in ver R38
 $0002-$0401 Kirk data
 $0402-$0801 Spock data
-$0802-$0C02 Uhura data
+$0802-$0C01 Uhura data
+
+$     $1C01 McCoy data
+$1C02-$2C01 StarFleet Logo data 64x64
+$2C02-$4C01 Enterprise data 2 x 64x64
